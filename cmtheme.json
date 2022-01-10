@@ -1,0 +1,26 @@
+{
+    "name": "Commercial Markets Theme",
+    "description": "externalSoftwareSystemBoundariesVisible",
+  "elements" : [ {
+    "tag" : "Customer",
+    "background" : "#999999"
+  }, {
+    "tag" : "Robot",
+    "background" : "#999999",
+    "shape" : "Robot"
+  }, {
+    "tag" : "Database",
+    "shape" : "Cylinder"
+  },
+  {
+  	"tag" : "New",
+  	"background" : "#E83E29"
+  	
+  },
+  {
+  	"tag" : "Modified",
+  	"background" : "#EFBB2B"
+  	
+  }
+   ]
+}
