@@ -23,5 +23,9 @@
       "tag": "Modified",
       "background": "#EFBB2B"
     }
+    {
+      "tag": "Elsevier",
+      "background": "#FF9B00"
+    }
   ]
 }
